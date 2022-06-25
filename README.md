@@ -1,6 +1,7 @@
 # Music-Gallery-Early-Acces
 This is a Music Gallery made for fun in HTML5 and CSS (i only used it to change the color of the letters).
-To open it just click two times on index (the one with a browser icon).
+The gallery only has some SM64 themes (if you don't know what SM64 means, it means Super Mario 64.
+To open it just click two times on index.HTML.
 You Need to download the mp3 files to let the web work (if there's a different way to let the web work
 without downloading the mp3 files please tell me).
 (I don't know who drew this but it wasn't me).

@@ -4,6 +4,7 @@ To open it just click two times on index (the one with a browser icon).
 You Need to download the mp3 files to let the web work (if there's a different way to let the web work
 without downloading the mp3 files please tell me).
 (I don't know who drew this but it wasn't me).
+(You need  to download the README.md in order to see it, or that's what i think).
 ____________________
 _¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 _¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
